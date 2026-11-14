@@ -199,4 +199,4 @@ This repository serves as the official landing page for Spyder (64-bit). The sof
 **Get the most recent version of Spyder today!**
 
 ---
-**Last updated:** 2026-11-13 20:13:05 UTC
+**Last updated:** 2026-11-14 01:10:09 UTC
